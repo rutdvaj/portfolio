@@ -21,7 +21,7 @@ export default function WorkFlowRender() {
       >
         How I Get Things Done
       </h2>
-      <div className="wf-desc flex-col sm:flex-row justify-between items-center mt-10">
+      <div className="wf-desc flex flex-col sm:flex-row justify-between items-center mt-10">
         <div className="desc-1 flex flex-col mt-12 max-w-md items-center justify-center">
           <Image src={mimg} alt="mimg" />
           <h2
