@@ -18,7 +18,7 @@ export default function Footer1() {
         <p
           className={`${raleway.className} text-white/50 text-lg text center mt-5`}
         >
-          Let's build together!
+          Lets build together!
         </p>
       </div>
     </div>
