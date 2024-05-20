@@ -30,8 +30,8 @@ export function CardWithForm() {
 
       <CardFooter className="flex justify-end">
         {/* <Button>Deploy</Button> */}
-        <Image src={nextimg} className="mr-2" />
-        <Image src={timg} />
+        <Image src={nextimg} className="mr-2" alt="nextimg" />
+        <Image src={timg} alt="timg" />
       </CardFooter>
     </Card>
   );

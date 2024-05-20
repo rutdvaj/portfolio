@@ -29,8 +29,8 @@ export function CardWithForm3() {
 
       <CardFooter className="flex justify-end">
         {/* <Button>Deploy</Button> */}
-        <Image src={nextimg} className="mr-2" />
-        <Image src={reactimg} />
+        <Image src={nextimg} className="mr-2" alt="next3img" />
+        <Image src={reactimg} alt="react2img" />
       </CardFooter>
     </Card>
   );

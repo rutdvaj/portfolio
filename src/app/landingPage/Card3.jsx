@@ -28,8 +28,8 @@ export function CardWithForm2() {
 
       <CardFooter className="flex justify-start">
         {/* <Button>Deploy</Button> */}
-        <Image src={nextimg} className="mr-2" />
-        <Image src={reactimg} />
+        <Image src={nextimg} className="mr-2" alt="next2img" />
+        <Image src={reactimg} alt="reactimg" />
       </CardFooter>
     </Card>
   );

@@ -9,7 +9,7 @@ export function ButtonOutline() {
         variant="ghost"
         className=" bg-dark outline-white/50 hover:bg-darker border-darker border-4 tracking-tight mt-10 rounded-xl "
       >
-        <Image src={meetimg} />
+        <Image src={meetimg} alt="meetimg" />
         <h1 className="text-white font-normal text-2xl ml-2">Book a Meeting</h1>
       </Button>
     </Link>

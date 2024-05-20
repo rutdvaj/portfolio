@@ -34,17 +34,17 @@ export function MenubarDemo() {
         </MenubarMenu>
         <MenubarMenu>
           <Link href="https://twitter.com/rutdvajrawal">
-            <Image src={ximg} className="object-scale-down" />
+            <Image src={ximg} className="object-scale-down" alt="ximg" />
           </Link>
         </MenubarMenu>
         <MenubarMenu>
           <Link href="https://github.com/rutdvaj">
-            <Image src={gitimg} />
+            <Image src={gitimg} alt="gitimg" />
           </Link>
         </MenubarMenu>
         <MenubarMenu>
           <Link href="https://mail.google.com/mail/?view=cm&fs=1&to=rutdvajrawal@gmail.com">
-            <Image src={linimg} />
+            <Image src={linimg} alt="linimg" />
           </Link>
         </MenubarMenu>
       </Menubar>
