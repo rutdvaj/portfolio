@@ -20,7 +20,7 @@ import linimg from "../../../public/images/linimg.png";
 import Link from "next/link";
 export function MenubarDemo() {
   return (
-    <div className="flex justify-around">
+    <div className="flex justify-around bg-mainColor">
       <Menubar className=" gap-6 outline-none border-none sm:gap-24">
         <MenubarMenu>
           <MenubarTrigger className="hover:bg-gray-200">
