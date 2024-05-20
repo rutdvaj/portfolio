@@ -20,7 +20,7 @@ export function CardWithForm2() {
         </CardTitle>
         <CardDescription>
           <p className={`${raleway.className} text-white text-xl`}>
-            Whether you're a Startup or a solopreneur I have got the perfect
+            Whether youre a Startup or a solopreneur I have got the perfect
             tools for scalable web apps that can suffice your expectations.
           </p>
         </CardDescription>

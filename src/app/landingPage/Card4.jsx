@@ -20,7 +20,7 @@ export function CardWithForm3() {
         </CardTitle>
         <CardDescription>
           <p className={`${raleway.className} text-white text-xl`}>
-            I'm available for outsourcing projects, whether you need a developer
+            Im available for outsourcing projects, whether you need a developer
             for a short-term project or a long-term partnership or just to
             develop a feature
           </p>

@@ -32,7 +32,7 @@ export default function WorkFlowRender() {
           <p
             className={`${raleway.className} text-white/50 text-xl text-center`}
           >
-            Define the project's requirements, goals, and features in detail..
+            Define the projects requirements, goals, and features in detail..
           </p>
         </div>
         <div className="desc-2 flex flex-col mt-12 max-w-md items-center justify-center">

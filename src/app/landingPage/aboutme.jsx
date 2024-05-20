@@ -23,8 +23,8 @@ export default function Aboutmeintro() {
             <span
               className={`${raleway.className}  text-white/50  text-center text-lg sm:text-2xl`}
             >
-              Hi, I'm Rutdvaj Rawal, a 22 year old freelance web dev based out
-              of Gujrat, India.
+              Hi, Im Rutdvaj Rawal, a 22 year old freelance web dev based out of
+              Gujrat, India.
             </span>
             <span
               className={`${raleway.className}  text-white  text-center  text-lg sm:text-2xl ml-0 sm:ml-2`}
