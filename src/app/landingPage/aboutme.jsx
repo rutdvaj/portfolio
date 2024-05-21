@@ -78,9 +78,7 @@ export default function Aboutmeintro() {
           >
             I am constantly working on improving my skills in web dev and
             execute projects to gain experience. I am passionate about tech in
-            general, from embedded systems to web dev to IoT. One of my first
-            principles is that I never overpromise to my clients, I know what I
-            can do, and I try to do it better than others.
+            general, from embedded systems to web dev to IoT.
           </span>
           <span
             className={`${raleway.className}  text-white  text-center text-2xl ml-2 max-w-xl`}
