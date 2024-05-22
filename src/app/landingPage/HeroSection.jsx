@@ -20,7 +20,7 @@ export const runtime = "edge";
 
 export default function HS1() {
   return (
-    <div className="w-full h-full bg-dark mt-10 rounded-t-3xl sm:p-4 sm:w-3/4">
+    <div className="w-full h-full bg-dark mt-10 rounded-t-xl sm:rounded-t-3xl sm:p-4 sm:w-3/4">
       <MenucompDemo />
       <div className="text-block flex justify-center items-center mt-10">
         <div className="hs-text  p-8">
