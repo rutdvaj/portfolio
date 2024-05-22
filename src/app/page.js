@@ -4,7 +4,7 @@ export const runtime = "edge";
 
 export default function Home() {
   return (
-    <main className="flex h-full w-full flex-col items-center justify-between  bg-mainColor">
+    <main className="flex h-full w-full flex-col items-center   bg-mainColor">
      <Page />
     </main>
   );
