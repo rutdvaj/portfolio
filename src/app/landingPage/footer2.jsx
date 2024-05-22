@@ -1,5 +1,7 @@
 import React from "react";
 import { raleway } from "../layout";
+export const runtime = "edge";
+
 export default function Footer2() {
   return (
     <div className="flex items-center justify-center">

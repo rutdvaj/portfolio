@@ -7,6 +7,7 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { raleway } from "../layout";
+export const runtime = "edge";
 
 export default function Prices() {
   return (

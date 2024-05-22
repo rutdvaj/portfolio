@@ -1,6 +1,7 @@
 import { Card } from "@/components/ui/card";
 
 import React from "react";
+export const runtime = "edge";
 
 export default function MainCard() {
   return (

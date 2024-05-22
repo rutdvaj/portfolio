@@ -1,6 +1,7 @@
 import React from "react";
 import HS1 from "./HeroSection";
 import { MenubarDemo } from "./Menubar";
+export const runtime = "edge";
 
 export default function Page() {
   return (

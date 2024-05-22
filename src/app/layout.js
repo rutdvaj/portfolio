@@ -1,6 +1,7 @@
 import { Raleway } from "next/font/google";
 import localFont from 'next/font/local'
 import "./globals.css";
+export const runtime = "edge";
 
 export const raleway = Raleway({
    subsets: ['latin'],

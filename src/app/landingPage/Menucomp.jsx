@@ -1,5 +1,6 @@
 import React from "react";
 import { telegraf } from "../layout";
+export const runtime = "edge";
 
 export default function MenucompDemo() {
   return (

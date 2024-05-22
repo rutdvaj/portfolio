@@ -11,6 +11,8 @@ import Image from "next/image";
 import nextimg from "../../../public/images/nextimg.png";
 import reactimg from "../../../public/images/reactimg.png";
 import { raleway } from "../layout";
+export const runtime = "edge";
+
 export function CardWithForm2() {
   return (
     <Card className="w-[350px] bg-dark border-2 sm:border-4 border-darker tracking-tight outline-white/50 sm:ml-2 mt-12 ml-8">

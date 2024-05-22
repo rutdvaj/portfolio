@@ -9,6 +9,7 @@ import {
   BadgeSecondary7,
 } from "./Badge";
 import { telegraf } from "../layout";
+export const runtime = "edge";
 
 export default function SkillsComp() {
   return (

@@ -2,6 +2,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import Prices, { Prices2, Prices3 } from "./prices";
+export const runtime = "edge";
 
 export default function PricesRender() {
   const [client, setClient] = useState(false);

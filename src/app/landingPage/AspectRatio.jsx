@@ -2,6 +2,8 @@ import React from "react";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 import MainCard from "./Card";
 import { MenubarDemo } from "./Menubar";
+export const runtime = "edge";
+
 export default function ASR() {
   return (
     <AspectRatio

@@ -16,6 +16,7 @@ import WorkFlowRender from "./workflow";
 import PricesRender from "./preicesrender";
 import Footer1 from "./footer1";
 import Footer2 from "./footer2";
+export const runtime = "edge";
 
 export default function HS1() {
   return (

@@ -12,6 +12,7 @@ import nextimg from "../../../public/images/nextimg.png";
 import timg from "../../../public/images/timg.png";
 import { raleway } from "../layout";
 import { telegraf } from "../layout";
+export const runtime = "edge";
 
 export function CardWithForm() {
   return (

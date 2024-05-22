@@ -8,6 +8,8 @@ import awimg from "../../../public/images/awimg.png";
 import njsimg from "../../../public/images/njsimg.png";
 import fimg from "../../../public/images/fimg.png";
 import gitimg from "../../../public/images/githubimg.png";
+export const runtime = "edge";
+
 export function BadgeSecondary() {
   return (
     <Link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">

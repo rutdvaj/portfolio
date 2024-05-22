@@ -1,6 +1,7 @@
 import React from "react";
 import { telegraf } from "../layout";
 import { raleway } from "../layout";
+export const runtime = "edge";
 
 export default function Aboutmeintro() {
   return (

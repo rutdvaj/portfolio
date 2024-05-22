@@ -18,6 +18,8 @@ import ximg from "../../../public/images/ximg.png";
 import gitimg from "../../../public/images/gitimg.png";
 import linimg from "../../../public/images/linimg.png";
 import Link from "next/link";
+export const runtime = "edge";
+
 export function MenubarDemo() {
   return (
     <div className="flex justify-around bg-mainColor">

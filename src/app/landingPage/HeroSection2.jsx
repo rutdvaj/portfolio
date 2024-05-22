@@ -4,6 +4,8 @@ import { useState, useEffect } from "react";
 import { CardWithForm } from "./Card2";
 import { CardWithForm2 } from "./Card3";
 import { CardWithForm3 } from "./Card4";
+export const runtime = "edge";
+
 export default function HS2() {
   const [isClient, setIsClient] = useState(false);
 

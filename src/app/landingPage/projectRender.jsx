@@ -3,6 +3,7 @@ import React from "react";
 import { useState, useEffect } from "react";
 import { telegraf } from "../layout";
 import DisplayProjects, { DisplayProjects2 } from "./projects";
+export const runtime = "edge";
 
 export default function ProjectRender() {
   const [isClient, setIsClient] = useState(false);

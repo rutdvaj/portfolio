@@ -2,6 +2,8 @@ import { Button } from "@/components/ui/button";
 import meetimg from "../../../public/images/meetimg.png";
 import Image from "next/image";
 import Link from "next/link";
+export const runtime = "edge";
+
 export function ButtonOutline() {
   return (
     <Link href="https://calendly.com/rutdvajrawal">

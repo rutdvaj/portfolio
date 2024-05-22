@@ -8,6 +8,8 @@ import pimg from "../../../public/images/pimg.png";
 import simg from "../../../public/images/simg.png";
 import slackimg from "../../../public/images/slackimg.png";
 import ytimg from "../../../public/images/ytimg.png";
+export const runtime = "edge";
+
 export default function WorkFlowRender() {
   return (
     <div>

@@ -2,6 +2,7 @@ import React from "react";
 import { telegraf } from "../layout";
 import { ButtonOutline } from "./MeetingButton";
 import { raleway } from "../layout";
+export const runtime = "edge";
 
 export default function Footer1() {
   return (

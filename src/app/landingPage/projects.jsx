@@ -10,6 +10,7 @@ import {
 } from "@/components/ui/card";
 import { raleway } from "../layout";
 import { BadgeSecondary8, BadgeSecondary9 } from "./Badge";
+export const runtime = "edge";
 
 export default function DisplayProjects() {
   return (
