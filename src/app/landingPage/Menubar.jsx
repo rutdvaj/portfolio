@@ -22,7 +22,7 @@ export const runtime = "edge";
 
 export function MenubarDemo() {
   return (
-    <div className="w-full max-w-4xl flex justify-around bg-mainColor">
+    <div className="w-full max-w-4xl flex justify-around bg-white">
       <Menubar className=" gap-6 outline-none border-none sm:gap-24">
         <MenubarMenu>
           <MenubarTrigger className="hover:bg-gray-200">
