@@ -35,7 +35,7 @@ export function MenubarDemo() {
           </MenubarTrigger>
         </MenubarMenu>
         <MenubarMenu>
-          <Link href="https://twitter.com/rutdvajrawal">
+          <Link href="https://x.com/usecontexthater">
             <Image src={ximg} className="object-scale-down" alt="ximg" />
           </Link>
         </MenubarMenu>
