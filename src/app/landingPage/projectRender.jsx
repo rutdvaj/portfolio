@@ -2,7 +2,11 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import { telegraf } from "../layout";
-import DisplayProjects, { DisplayProjects2 } from "./projects";
+import DisplayProjects, {
+  DisplayProjects2,
+  DisplayProjects3,
+  DisplayProjects4,
+} from "./projects";
 export const runtime = "edge";
 
 export default function ProjectRender() {
@@ -26,6 +30,10 @@ export default function ProjectRender() {
       <div className="p-tile-1 sm:flex-row flex flex-col justify-around  items-center">
         {isClient && <DisplayProjects />}
         {isClient && <DisplayProjects2 />}
+      </div>
+      <div className="p-tile-1 sm:flex-row flex flex-col justify-around  items-center">
+        {isClient && <DisplayProjects3 />}
+        {isClient && <DisplayProjects4 />}
       </div>
     </div>
   );
