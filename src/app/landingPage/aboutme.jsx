@@ -11,7 +11,7 @@ export default function Aboutmeintro() {
           About Me
         </h1>
         <h2
-          className={`${telegraf.className} font-bold text-white text-5xl sm:text-6xl text-center`}
+          className={`${telegraf.className} items-center font-bold text-white text-5xl sm:text-6xl text-center max-w-[370px] md:max-w-full`}
         >
           Get to know me
         </h2>
@@ -22,13 +22,13 @@ export default function Aboutmeintro() {
             className={`${raleway.className}  text-white/50  flex flex-col text-center `}
           >
             <span
-              className={`${raleway.className}  text-white/50  text-center text-lg sm:text-2xl`}
+              className={`${raleway.className}  text-white/50  text-center text-lg sm:text-2xl max-w-[360px] md:max-w-full`}
             >
               Hi, Im Rutdvaj Rawal, a 22 year old freelance web dev based out of
               Gujrat, India.
             </span>
             <span
-              className={`${raleway.className}  text-white  text-center  text-lg sm:text-2xl ml-0 sm:ml-2`}
+              className={`${raleway.className}  text-white  text-center  text-lg sm:text-2xl ml-0 sm:ml-2 max-w-[360px] md:max-w-full`}
             >
               My main focous will be to provide reliable and comprehensive
               solutions to my clients that are deliverable on time.
@@ -46,17 +46,17 @@ export default function Aboutmeintro() {
           className={`${raleway.className}  text-white/50  flex flex-col text-center mt-5`}
         >
           <span
-            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl`}
+            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl max-w-[360px] md:max-w-full`}
           >
             My development roots are in
           </span>
           <span
-            className={`${raleway.className}  text-white  text-center text-2xl ml-2`}
+            className={`${raleway.className}  text-white  text-center text-2xl ml-2 max-w-[360px] md:max-w-full`}
           >
             React, NextJS, appwrite.
           </span>
           <span
-            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl max-w-xl`}
+            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl  max-w-[360px] md:max-w-full`}
           >
             Web apps that are reliable and websites that are responsive are my
             primary goals. Handling complex projects and workflows in an
@@ -75,14 +75,14 @@ export default function Aboutmeintro() {
           className={`${raleway.className}  text-white/50  flex flex-col text-center mt-5`}
         >
           <span
-            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl max-w-xl`}
+            className={`${raleway.className}  text-white/50  text-center text-xl sm:text-2xl  max-w-[360px] md:max-w-full`}
           >
             I am constantly working on improving my skills in web dev and
             execute projects to gain experience. I am passionate about tech in
             general, from embedded systems to web dev to IoT.
           </span>
           <span
-            className={`${raleway.className}  text-white  text-center text-2xl ml-2 max-w-xl`}
+            className={`${raleway.className}  text-white  text-center text-2xl ml-2 max-w-[360px] md:max-w-full`}
           >
             One of my first principles is that I never overpromise to my
             clients, I know what I can do, and I try to do it better than

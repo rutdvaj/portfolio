@@ -32,7 +32,7 @@ export default function HS1() {
         </div>
       </div>
       <div className="p-text-block flex justify-center items-center mt-10">
-        <div className="p-hs-text">
+        <div className="p-hs-text max-w-[360px] md:max-w-full">
           <h1 className=" text-xl sm:text-2xl text-center">
             <span className="text-white/50 mr-1 font-normal p-1">
               Seamlessly transitioning from crafting

@@ -23,7 +23,7 @@ export function CardWithForm() {
         </CardTitle>
         <CardDescription>
           <p className={`${raleway.className} text-white text-xl `}>
-            I create lightning fast, custom coded websites in Next.js using
+            I create lightning fast custom coded websites in Next.js using
             tailwind with any features you want.
           </p>
         </CardDescription>

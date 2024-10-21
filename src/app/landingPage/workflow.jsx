@@ -19,7 +19,7 @@ export default function WorkFlowRender() {
         Workflow
       </h2>
       <h2
-        className={`${telegraf.className} font-bold text-white text-4xl text-center mt-3`}
+        className={`${telegraf.className} font-bold text-white text-4xl text-center mt-3 max-w-[360px] md:max-w-full`}
       >
         How I Get Things Done
       </h2>
@@ -32,7 +32,7 @@ export default function WorkFlowRender() {
             Specifications
           </h2>
           <p
-            className={`${raleway.className} text-white/50 text-xl text-center`}
+            className={`${raleway.className} text-white/50 text-xl text-center max-w-[360px] md:max-w-full`}
           >
             Define the projects requirements, goals, and features in detail..
           </p>
@@ -60,7 +60,7 @@ export default function WorkFlowRender() {
             Delivery
           </h2>
           <p
-            className={`${raleway.className} text-white/50 text-xl text-center`}
+            className={`${raleway.className} text-white/50 text-xl text-center max-w-[360px] md:max-w-full`}
           >
             After approvement and testing, code or deployment will be delivered.
           </p>
